@@ -1,4 +1,4 @@
 
 <div align="center">
-  <img src="./info-card.svg" width="640"/>
+  <img src="./info.svg" width="640"/>
 </div>
