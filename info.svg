@@ -1,0 +1,184 @@
+<svg width="640" height="400" viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplZjdmZWIxZi00ZDlkLTQxNGQtOWYyNS1jZDE2NzA0MTYyN2QAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJNHXUwBEbrAKlr7WfAO6KAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmZTRmNTMyOS0wNzM3LTRmMzAtOGU5NC0zZDBiNWQ0NDk3YTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoPF2XJtiyPXO1dxj+htEVNQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggPdCRrd3E3Xz5kA9kQqhpPOYflxpbK3wsUw3AB2QDdu6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNrXbS1sLSk/lHQfNHpyD8MAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBVutpVIITK/5dkksZDmNq/03itUHVzZNvCwxSKWqo/jWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVmN2ZlYjFmLTRkOWQtNDE0ZC05ZjI1LWNkMTY3MDQxNjI3ZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk5YTk5ZWQzLTZmMWUtNGRiYi05YTg2LTE0MTZiNWE5MGI3N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCA90JGt3cTdfPmQD2RCqGk85h+XGlsrfCxTDcAHZAN27qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggVOz/Xywkpu3ozVny3sW2b+H6GXw6VefBiuYRHmI95TaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggw0+4hljKRMCPWu1ib9oKbXf0D09IEurZfM0Q7AZznE90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDg8WHOUHlq7nNvhot4bwxfS1qvbQ48h28lGWGnZTtXM8wqrMja+Kq80pQparMQjdeL0ZpWTgw7GRkj4bJ8ipfA=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="frame2">
+      <rect x="0" y="0" width="640" height="400" rx="14"/>
+    </clipPath>
+    <!-- typewriter clip windows: start full width (safe default), then erase/retype forever -->
+    <clipPath id="clipHi">
+      <rect x="20" y="50" width="70" height="22">
+        <animate attributeName="width" calcMode="discrete"
+          values="70;70;58.3;46.7;35.0;23.3;11.7;0.0;0;17.5;35.0;52.5;70.0;70"
+          keyTimes="0;0.5;0.5133;0.5267;0.54;0.5533;0.5667;0.58;0.66;0.68;0.7;0.72;0.74;1"
+          dur="5s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipNaza">
+      <rect x="20" y="76" width="150" height="30">
+        <animate attributeName="width" calcMode="discrete"
+          values="150;150;125.0;100.0;75.0;50.0;25.0;0.0;0;21.4;42.9;64.3;85.7;107.1;128.6;150.0;150"
+          keyTimes="0;0.5;0.5133;0.5267;0.54;0.5533;0.5667;0.58;0.66;0.6714;0.6829;0.6943;0.7057;0.7171;0.7286;0.74;1"
+          dur="5s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipTagline">
+      <rect x="20" y="108" width="340" height="22">
+        <animate attributeName="width" calcMode="discrete"
+          values="340;340;283.3;226.7;170.0;113.3;56.7;0.0;0;28.3;56.7;85.0;113.3;141.7;170.0;198.3;226.7;255.0;283.3;311.7;340.0;340"
+          keyTimes="0;0.5;0.5133;0.5267;0.54;0.5533;0.5667;0.58;0.66;0.6667;0.6733;0.68;0.6867;0.6933;0.7;0.7067;0.7133;0.72;0.7267;0.7333;0.74;1"
+          dur="5s" begin="2.4s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame2)">
+    <rect width="640" height="400" fill="#0d1117"/>
+    <rect width="640" height="400" fill="none" stroke="#30363d" stroke-width="1"/>
+
+    <rect x="0" y="0" width="640" height="34" fill="#161b22"/>
+    <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+    <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="17" r="6" fill="#27c93f"/>
+    <text x="320" y="21" fill="#8b949e" font-size="12" text-anchor="middle">nazaninean</text>
+
+    <!-- small neuron cluster, nodes pulse and fire along their synapses, forever -->
+    <g stroke="#30363d" stroke-width="1" opacity="0.9">
+      <line x1="486" y1="58" x2="538" y2="46"/>
+      <line x1="486" y1="58" x2="524" y2="96"/>
+      <line x1="524" y1="96" x2="580" y2="82"/>
+      <line x1="538" y1="46" x2="580" y2="82"/>
+      <line x1="538" y1="46" x2="600" y2="60"/>
+      <line x1="580" y1="82" x2="600" y2="60"/>
+    </g>
+    <g>
+      <circle cx="486" cy="58" r="4.5" fill="#22d3ee"/>
+      <circle cx="538" cy="46" r="4.5" fill="#a78bfa"/>
+      <circle cx="524" cy="96" r="4.5" fill="#7ee787"/>
+      <circle cx="580" cy="82" r="4.5" fill="#22d3ee"/>
+      <circle cx="600" cy="60" r="4.5" fill="#a78bfa"/>
+    </g>
+    <!-- pulses travelling along synapses -->
+    <circle r="2.2" fill="#e6edf3">
+      <animate attributeName="cx" values="486;538;486" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="58;46;58" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#e6edf3">
+      <animate attributeName="cx" values="486;524;486" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="58;96;58" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#e6edf3">
+      <animate attributeName="cx" values="524;580;524" dur="2.1s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="96;82;96" dur="2.1s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="2.1s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#e6edf3">
+      <animate attributeName="cx" values="538;580;538" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="46;82;46" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#e6edf3">
+      <animate attributeName="cx" values="538;600;538" dur="2.3s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="46;60;46" dur="2.3s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="2.3s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#e6edf3">
+      <animate attributeName="cx" values="580;600;580" dur="1.9s" begin="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="82;60;82" dur="1.9s" begin="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.9s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <g clip-path="url(#clipHi)">
+      <text x="24" y="66" font-size="16" fill="#8b949e">Hi <tspan font-size="16">&#128075;</tspan></text>
+    </g>
+
+    <g clip-path="url(#clipNaza)">
+      <text x="24" y="96" font-size="24" font-weight="700" fill="#e6edf3">I'm <tspan fill="url(#nameGrad)">Naza</tspan></text>
+    </g>
+
+    <g clip-path="url(#clipTagline)">
+      <text x="24" y="124" font-size="15" fill="#7ee787">&#8250; Computational Neuro &amp; Neurotech</text>
+    </g>
+
+    <!-- info rows -->
+    <g font-size="14">
+      <text x="24" y="160" fill="#8b949e">location</text>
+      <text x="150" y="160" fill="#c9d1d9">Berkeley, CA &#183; Jakarta/Bandung (summers)</text>
+
+      <text x="24" y="186" fill="#8b949e">education</text>
+      <text x="150" y="186" fill="#c9d1d9">Cogsci and Data @ Berkeley</text>
+
+      <text x="24" y="212" fill="#8b949e">focus</text>
+      <text x="150" y="212" fill="#c9d1d9">Computational Neuro &amp; Neurotech</text>
+
+      <text x="24" y="238" fill="#8b949e">linkedin</text>
+      <text x="150" y="238" fill="#58a6ff">linkedin.com/in/nazanine-nousafarin</text>
+    </g>
+
+    <line x1="24" y1="260" x2="616" y2="260" stroke="#30363d" stroke-width="1"/>
+
+    <text x="24" y="286" font-size="13" fill="#8b949e" letter-spacing="1">SKILLS</text>
+
+    <!-- skill pills -->
+    <g font-size="13" fill="#c9d1d9">
+      <g>
+        <rect x="24" y="300" width="62" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="55" y="317" text-anchor="middle">Python</text>
+      </g>
+
+      <g>
+        <rect x="96" y="300" width="46" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="119" y="317" text-anchor="middle">C++</text>
+      </g>
+
+      <g>
+        <rect x="152" y="300" width="46" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="175" y="317" text-anchor="middle">SQL</text>
+      </g>
+
+      <g>
+        <rect x="208" y="300" width="96" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="256" y="317" text-anchor="middle">MNE-Python</text>
+      </g>
+
+      <g>
+        <rect x="314" y="300" width="110" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="369" y="317" text-anchor="middle">scikit-learn</text>
+      </g>
+
+      <g>
+        <rect x="24" y="336" width="58" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="53" y="353" text-anchor="middle">NumPy</text>
+      </g>
+
+      <g>
+        <rect x="92" y="336" width="58" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="121" y="353" text-anchor="middle">SciPy</text>
+      </g>
+
+      <g>
+        <rect x="160" y="336" width="96" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="208" y="353" text-anchor="middle">H2O AutoML</text>
+      </g>
+
+      <g>
+        <rect x="266" y="336" width="46" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="289" y="353" text-anchor="middle">Git</text>
+      </g>
+
+      <g>
+        <rect x="322" y="336" width="78" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+        <text x="361" y="353" text-anchor="middle">EEG/tDCS</text>
+      </g>
+    </g>
+
+    <!-- bottom-left cursor: always visible, blinks forever -->
+    <rect x="24" y="376" width="10" height="16" fill="#7ee787">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
